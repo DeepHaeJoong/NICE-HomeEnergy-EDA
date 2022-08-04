@@ -27,3 +27,5 @@
                         - 12:05 ~ 12:10 | presence: FALSE
                         - 12:10 ~ 12:15 | presence: FALSE
                         - TV OFF -->
+
+....작성중....
